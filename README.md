@@ -36,25 +36,11 @@
 <h1>GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=samuel-neves&amp;show_icons=true" alt="GitHub Stats"></p>
 
+<br />
+
 <h1>GitHub Languages</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-neves&layout=compact&hide=html" /></p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=samuel-neves&show_icons=true">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuel-neves&show_icons=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-neves&hide=html">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-neves&layout=compact&hide=html" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 [instagram]: https://www.instagram.com/samuel212584
 [linkedin]: https://www.linkedin.com/in/samuel-neves-42b647184/
