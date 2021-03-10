@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.MMRTt_X72wnqDLQqXcem5QHaHa%26pid%3DApi&f=1" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SowjR2p8IMW-4qdSpvlungHaHa%26pid%3DApi&f=1" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 <br />
 
@@ -24,7 +24,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Postgres" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.UBVscfss9H1c_hNCMZdZIgHaHp%26pid%3DApi&f=1" />
+<img align="left" alt="Postgres" width="26px" src="https://img.icons8.com/color/50/000000/postgreesql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
