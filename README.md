@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src=https://iconscout.com/icon/linkedin-162" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://iconscout.com/icon/linkedin-162" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://iconscout.com/icon/instagram-216" />][instagram]
 
 <br />
