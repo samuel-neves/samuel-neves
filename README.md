@@ -39,8 +39,8 @@
 ![Snake animation](https://github.com/samuel-neves/samuel-neves/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-neves&amp;show_icons=true" alt="GitHub Stats" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-neves&layout=compact&hide=html" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel-neves&amp;show_icons=true&theme=dracula" alt="GitHub Stats" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-neves&layout=compact&hide=html&theme=dracula" height="180em" />
 </div>
 
 [instagram]: https://www.instagram.com/samuel212584
