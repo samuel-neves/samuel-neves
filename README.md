@@ -2,9 +2,9 @@
 
 ## I'm a CS Student, Developer and a Geek
 
-- 🔭 Currently working in Maia! 👨‍💻
-- 🧠 Learning ReactJS and Nodejs 💻
-- 🥇 2021 Goals: Develop my own portfolio site ⚛️
+- 🔭 Currently working in Gyra+! 👨‍💻
+- 🧠 Learning NextJS and Graphql 💻
+- 🥇 2022 Goals: Develop my portfolio and side projects ⚛️
 - ⚡ Fun fact: I love to play games 🎮
 
 ### Connect with me
@@ -39,6 +39,8 @@
 
 <h1>GitHub Languages</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-neves&layout=compact&hide=html" /></p>
+
+![Snake animation](https://github.com/samuel-neves/samuel-neves/blob/output/github-contribution-grid-snake.svg)
 
 [instagram]: https://www.instagram.com/samuel212584
 [linkedin]: https://www.linkedin.com/in/samuel-neves-42b647184/
